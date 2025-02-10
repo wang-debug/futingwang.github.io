@@ -33,7 +33,8 @@ My research focuses on advancing large language models (LLMs), with particular e
 
 [ELICIT: LLM Augmentation via External In-context Capability](https://arxiv.org/pdf/2410.09343)
 
-**Futing Wang**$^*$, Jianhao Yan$^*$, Yue Zhang, Tao Lin
+**Futing Wang**\*, Jianhao Yan\*, Yue Zhang, Tao Lin
+
 [**Github**](https://github.com/LINs-lab/ELICIT)
 - We propose ELICIT, a novel framework that not only has the potential to harness models’ latent abilities without introducing substantial additional computational cost, but also advances language models’ performance, versatility, adaptability, and scalability.
 </div>
