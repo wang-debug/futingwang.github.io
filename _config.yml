@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Futing Wang"
+description              : ""
 repository               : "wang-debug/futingwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Futing Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Zheiang University & Westlake University"
+  bio              : "Zheiang University \& Westlake University"
   location         : 
   employer         :
   pubmed           : 
