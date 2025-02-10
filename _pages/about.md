@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
@@ -33,12 +33,14 @@ My research focuses on advancing large language models (LLMs), with particular e
 
 [ELICIT: LLM Augmentation via External In-context Capability](https://arxiv.org/pdf/2410.09343)
 
-**Futing Wang***, Jianhao Yan*, Yue Zhang, Tao Lin
+**Futing Wang**$^*$, Jianhao Yan$^*$, Yue Zhang, Tao Lin
 
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+
 
 # 📖 Educations
 - *2024/09 - 2029/06*, Westlake University, Shool of Engineering.
