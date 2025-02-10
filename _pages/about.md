@@ -47,5 +47,5 @@ My research focuses on advancing large language models (LLMs), with particular e
 
 
 # 📖 Educations
-- *2024/09 - 2029/06*, Westlake University, Shool of Engineering.
+- *2023/09 - now*, Westlake University, Shool of Engineering.
 - *2019/09 - 2023/06*, Shanghai University, Computer Science and Technology.
