@@ -19,7 +19,7 @@ redirect_from:
 
 I am Futing Wang, a second-year Ph.D. student at [LINs Lab, Westlake University](https://lins-lab.github.io/) through a joint program with Zhejiang University, under the supervision of [Prof.Tao Lin](https://tlin-taolin.github.io/). Before that, I earned my Bachelor’s degree at Shanghai University.
 
-My research focuses on advancing large language models (LLMs), with particular emphasis on representation engineering, efficient model adaptation and training techniques, and modular capabilities for language models.
+My research focuses on advancing large language models (LLMs), with particular emphasis on *<u>modular capabilities</u>* for language models, *<u>representation engineering</u>*, and *<u>efficient model adaptation and training techniques</u>*.
 
 [Email](wangfuting@westlake.edu.cn)/[Github](https://github.com/wang-debug)/[Google Scholar](https://scholar.google.com/citations?user=tIErs4QAAAAJ&hl=zh-CN)
 
