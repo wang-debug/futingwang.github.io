@@ -28,13 +28,16 @@ My research focuses on advancing large language models (LLMs), with particular e
 
 # 📝 Publications <font size=3 color=grey>(* denotes equal contribution)</font>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/elicit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/elicit.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ELICIT: LLM Augmentation via External In-context Capability](https://arxiv.org/pdf/2410.09343)
 
 **Futing Wang**$^*$, Jianhao Yan$^*$, Yue Zhang, Tao Lin
-
+[**Github**](https://github.com/LINs-lab/ELICIT)
+- We propose ELICIT, a novel framework that not only has the potential to harness models’ latent abilities without introducing substantial additional computational cost, but also advances language models’ performance, versatility, adaptability, and scalability.
+</div>
+</div>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -45,6 +48,3 @@ My research focuses on advancing large language models (LLMs), with particular e
 # 📖 Educations
 - *2024/09 - 2029/06*, Westlake University, Shool of Engineering.
 - *2019/09 - 2023/06*, Shanghai University, Computer Science and Technology.
-<!-- 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
